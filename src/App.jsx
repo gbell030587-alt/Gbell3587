@@ -30,7 +30,7 @@ const FONTS = `'JetBrains Mono', 'SF Mono', 'Fira Code', monospace`;
 const FONT_BODY = `'DM Sans', 'Helvetica Neue', sans-serif`;
 
 const COLORS = {
-  bg: "#0a0a0f", surface: "#12121a", surfaceLight: "#1a1a26", surfaceDark: "#08080d",
+  bg: "1e1e2a", surface: "#12121a", surfaceLight: "#1a1a26", surfaceDark: "#08080d",
   border: "#2a2a3a", borderLight: "#3a3a4e",
   accent: "#00e5a0", accentDim: "#00e5a033", accentMid: "#00e5a066",
   warning: "#ffb347", warningDim: "#ffb34733",
