@@ -9,8 +9,8 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.svg', 'icon-192.png', 'icon-512.png'],
       manifest: {
-        name: 'Elite Coach',
-        short_name: 'Coach',
+        name: 'Mr. Coach',
+        short_name: 'Mr. Coach',
         description: 'AI-powered fat loss & performance coaching',
         theme_color: '#0a0a0f',
         background_color: '#0a0a0f',
