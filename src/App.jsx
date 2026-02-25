@@ -30,13 +30,13 @@ const FONTS = `'JetBrains Mono', 'SF Mono', 'Fira Code', monospace`;
 const FONT_BODY = `'DM Sans', 'Helvetica Neue', sans-serif`;
 
 const COLORS = {
-  bg: "#1e1e2a", surface: "#12121a", surfaceLight: "#1a1a26", surfaceDark: "#08080d",
+  bg: "#4ecbff", surface: "#12121a", surfaceLight: "#1a1a26", surfaceDark: "#08080d",
   border: "#2a2a3a", borderLight: "#3a3a4e",
   accent: "#00e5a0", accentDim: "#00e5a033", accentMid: "#00e5a066",
   warning: "#ffb347", warningDim: "#ffb34733",
   danger: "#ff6b6b", dangerDim: "#ff6b6b33",
   text: "#e8e8f0", textDim: "#8888a0", textMuted: "#55556a",
-  blue: "#4ecbff", blueDim: "#4ecbff33",
+  blue: "#1e1e2a", blueDim: "#4ecbff33",
   purple: "#b388ff", purpleDim: "#b388ff33",
 };
 
